@@ -1,7 +1,7 @@
 # TweeterSraper
 scrap data of like and retweet for each url from a select excel file
 
-# 🌟 Project TweeterSraper 🌟  
+# 🌟 Project TweeterScraper 🌟  
 *scrap like and retweet from tweeter link for you ✨*  
 
 ![Version](https://img.shields.io/badge/version-1.1.0-blue) ![License](https://img.shields.io/badge/license-MIT-green)  
