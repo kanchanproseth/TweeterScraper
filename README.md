@@ -29,3 +29,5 @@ scrap data of like and retweet for each url from a select excel file
    pyinstaller --onefile --add-data "drivers/chromedriver.exe;drivers" main.py
    ```
    
+Target Audience: 
+❤️ Jayzle Pauline Garcia (LOML)
